@@ -1,0 +1,6 @@
+projects:
+- repository_url: 'github.com/jmeaster30/syrency-api-server'
+  actions:
+    - action: create
+      if: 'condition'
+      build_command: 'make'
